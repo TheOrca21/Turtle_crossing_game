@@ -1,0 +1,7 @@
+1) Create a main file with screen and its attributes.
+    * create screen 600X600.
+    * listen for keys.
+    * create the loop and add all the functionality inside.
+2) Create a player class to manage player and its movements.
+3) Create a car manager to randomly move cars in the screen.
+4) Create a scoreboard to keep track of score.
